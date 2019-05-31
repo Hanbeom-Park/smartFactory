@@ -1,3 +1,4 @@
+#20190531 유현모
 import tensorflow as tf
 # tf.__version
 
