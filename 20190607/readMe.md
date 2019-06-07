@@ -1,4 +1,7 @@
 1. 유현모
+
+Multi-vairableLinearRegression 에 대한 실습 진행과 더불어서 필요한 파이썬 기능,        이론 학습 
+
 CSV(Comma-separated values)의 약자로서 CSV 파일은 각 라인의 컬럼들이 콤마로 분리된 텍스트 파일 포맷이다.
 
 Numpy 라이브러리를 통해서 데이터를 읽어옴.
